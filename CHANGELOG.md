@@ -23,6 +23,7 @@ Released on 2018-10-10.
 - Add active speaker related API and event.
 
 #### Updated
+- Upgrade to latest media engine.
 - Rename room to space.
 - Update PersonId in CallMemberShip to be the same as participant's id.
 - Fixed sending message error if login with different user account.
